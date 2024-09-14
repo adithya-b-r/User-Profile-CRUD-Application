@@ -72,10 +72,10 @@ A simple Express.js application with MongoDB to perform CRUD (Create, Read, Upda
 ## Screenshots
 
 ### User Form (Create User)
-![Create User Form](https://via.placeholder.com/800x400.png?text=Create+User+Form)
+![Create User Form](https://github.com/adithya-b-r/User-Profile-CRUD-Application/blob/main/imgs/create.png)
 
 ### User List (Read Users)
-![User List](https://via.placeholder.com/800x400.png?text=User+List)
+![User List](https://github.com/adithya-b-r/User-Profile-CRUD-Application/blob/main/imgs/read.png)
 
 ### User Profile (Edit User)
-![Edit User Profile](https://via.placeholder.com/800x400.png?text=Edit+User+Profile)
+![Edit User Profile](https://github.com/adithya-b-r/User-Profile-CRUD-Application/blob/main/imgs/edit.png)
